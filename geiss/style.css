@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'GeistVF';
-    src: url('GeistVF.woff2') format('woff2'),
-         url('GeistVF.woff') format('woff');
+    src: url('https://assets.91tcgames.site/geiss/GeistVF.woff2') format('woff2'),
+         url('https://assets.91tcgames.site/geiss/GeistVF.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
