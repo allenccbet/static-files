@@ -1,0 +1,295 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+.header {
+  background: #fff;
+  color: #333;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  transition: background-color 0.3s;
+  -webkit-transition: background-color 0.3s;
+  -moz-transition: background-color 0.3s;
+  -ms-transition: background-color 0.3s;
+  -o-transition: background-color 0.3s;
+}
+
+.header:hover {
+  background-color: #f9f9f9;
+}
+
+.header-logo {
+  max-width: 50px;
+  height: auto;
+}
+
+.btn-telegram {
+  background-color: #0B60B0;
+  color: #fff;
+  border: none;
+  padding: 10px 30px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-telegram i {
+  margin-right: 10px;
+  font-size: 1.5rem;
+}
+
+.btn-telegram:hover {
+  background-color: #2c81ba;
+  transform: scale(1.05);
+}
+
+.profile-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 3rem 0;
+  padding: 3.3rem 1rem;
+  background-color: #edffed;
+  border-radius: 10px;
+  position: relative;
+  z-index: 1;
+}
+
+.profile-image {
+  max-width: 180px;
+  height: auto;
+}
+
+.profile-content {
+  text-align: center;
+  color: #444;
+}
+
+.profile-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 3px;
+  color: #333;
+}
+
+.profile-content p {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.column-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px 0;
+  gap: 1rem;
+}
+
+.icon-list {
+  text-align: left;
+  max-width: none;
+  width: 100%;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+  margin-bottom: 15px;
+}
+
+.icon-list:hover {
+  background-color: #dbeeff;
+}
+
+.icon-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.icon-list li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  color: #555;
+}
+
+.icon-list img {
+  width: 8%;
+  margin-right: 10px;
+  font-size: 1.2rem;
+}
+
+.column-container-mb{
+  display: none;
+}
+
+
+.second-section {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: -50px;
+  padding: 3rem 1rem;
+  background-color: transparent;
+  
+  border-radius: 10px;
+  position: relative;
+}
+
+.icon-box {
+  text-align: center;
+  max-width: 300px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #fff; 
+  transition: background-color 0.3s;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: -5rem;
+  z-index: 2;
+}
+
+.icon-box img {
+  display: block;
+  margin: 0 auto;  /* Center the image horizontally */
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.icon-box h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.icon-box p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.icon-box:hover {
+  background-color: #dbeeff;
+}
+
+
+.telegram-top {
+  position: fixed;
+  bottom: 16px;
+  right: 32px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px; /* Reduced font size for better fit */
+  color: #3498db;
+  text-decoration: none;
+  transition: all 0.4s;
+  background-color: #fff; /* White background for the icon */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  z-index: 999; /* Ensure it's above other elements */
+  overflow: hidden; /* Hide the overflow when the icon pops up */
+}
+
+.telegram-top i {
+  font-size: 70px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.telegram-top:hover {
+  background-color: transparent; /* Change background color on hover */
+}
+
+.telegram-top:hover i {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 10px 20px;
+  }
+
+  .btn-telegram {
+    padding: 8px 12px;
+  }
+
+  .profile-content h1 {
+    font-size: 1.8rem;
+  }
+
+  .profile-content p {
+    font-size: 1.4rem;
+  }
+
+  .column-container{
+    display: none;
+  }
+  
+  .column-container-mb {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .column-container-mb img {
+    width: 90%;
+    margin: 1rem;
+}
+
+  .icon-list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+  }
+
+  .icon-list img {
+    width: 10%;
+  }
+
+  .icon-box {
+    width: 100%;
+    max-width: none;
+    margin-bottom: 1rem;
+    margin-top: 0;
+  }
+
+  .second-section {
+    padding: 2rem;
+    flex-direction: column;
+    margin-top: -2.3rem;
+  }
+
+  .icon-box i {
+    font-size: 1.5rem;
+  }
+
+  .icon-box h2 {
+    font-size: 1.2rem;
+  }
+
+  .icon-box p {
+    font-size: 0.8rem;
+  }
+}
