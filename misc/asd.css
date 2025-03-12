@@ -1,0 +1,125 @@
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+.banner-bg {
+    background: rgb(220, 131, 44);
+    background: linear-gradient(13deg, #198754 5%, rgb(235 235 235) 60%, #ffc107 100%);
+}
+.section {
+    padding: 35px 0;
+}
+
+.banner-section h2 {
+    font-size: 26px;
+    color: #000;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: 15px;
+}
+
+.banner-section p {
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.footer {
+    background: rgb(220,131,44);
+    background: linear-gradient(180deg, rgba(220,131,44,1) 5%, rgba(255,255,255,1) 50%, rgba(17,120,5,1) 100%);
+    font-size: 0.9em;
+    margin-top: 0;
+    padding: 0;
+    position: relative;
+}
+.footer-menu ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.footer-menu ul li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: inline-block;
+    margin: 0 15px;
+    color: #000;
+}
+.footer-menu ul li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+}
+.generic-content h1{
+    font-size: 30px;
+    color: #000;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.generic-content p{
+    font-style: 16px;
+    color: #000;
+    margin-bottom: 10px;
+}
+.generic-content h2{
+    font-size: 26px;
+    color: #000;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.generic-content ol{
+    padding-left: 20px;
+}
+.generic-content ol li, 
+.generic-content ul li{
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+.generic-content h3{
+    font-size: 25px;
+    color: #000;
+    margin-bottom: 8px;
+}
+
+.logo-mobile img{
+    width: 100px;
+}
+
+.mobile-header .mobile-button{
+    padding: 8px 15px;
+    color: #fff;
+    background: #1240A7;
+    text-transform: uppercase;
+}
+
+.mobile-heading h2 {
+    font-size: 26px;
+    color: #000;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: 15px;
+}
+
+.mobile-heading p {
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.mobile-button{
+    border:solid 1px;
+}
+
+@media only screen and (max-width: 768px) {
+  
+  
+  
+}
