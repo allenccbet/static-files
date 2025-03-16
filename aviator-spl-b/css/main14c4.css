@@ -257,8 +257,8 @@ template {
 .background__phone {
     background-image: -webkit-image-set(url(../images/phone.webp) 1x, url(../images/phone%25402x.webp) 2x, url(../images/phone%25403x.webp) 3x);
     background-image: image-set(url(../images/phone.webp) 1x, url(../images/phone%25402x.webp) 2x, url(../images/phone%25403x.webp) 3x);
-    background-image: -webkit-image-set(url(../images/phone.avif) 1x, url(../images/phone%25402x.avif) 2x, url(../images/phone%25403x.avif) 3x);
-    background-image: image-set(url(../images/phone.avif) 1x, url(../images/phone%25402x.avif) 2x, url(../images/phone%25403x.avif) 3x);
+    background-image: -webkit-image-set(url(../images/phone.webp) 1x, url(../images/phone%25402x.webp) 2x, url(../images/phone%25403x.webp) 3x);
+    background-image: image-set(url(../images/phone.webp) 1x, url(../images/phone%25402x.webp) 2x, url(../images/phone%25403x.webp) 3x);
     background-repeat: no-repeat;
     bottom: -29px;
     height: 270.843px;
@@ -271,8 +271,8 @@ template {
     .background__phone {
         background-image: -webkit-image-set(url(../images/phone_768.webp) 1x, url(../images/phone_768%25402x.webp) 2x, url(../images/phone_768%25403x.webp) 3x);
         background-image: image-set(url(../images/phone_768.webp) 1x, url(../images/phone_768%25402x.webp) 2x, url(../images/phone_768%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/phone_768.avif) 1x, url(../images/phone_768%25402x.avif) 2x, url(../images/phone_768%25403x.avif) 3x);
-        background-image: image-set(url(../images/phone_768.avif) 1x, url(../images/phone_768%25402x.avif) 2x, url(../images/phone_768%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/phone_768.webp) 1x, url(../images/phone_768%25402x.webp) 2x, url(../images/phone_768%25403x.webp) 3x);
+        background-image: image-set(url(../images/phone_768.webp) 1x, url(../images/phone_768%25402x.webp) 2x, url(../images/phone_768%25403x.webp) 3x);
         height: 497px;
         transform: rotate(0);
         width: 304px
@@ -283,8 +283,8 @@ template {
     .background__phone {
         background-image: -webkit-image-set(url(../images/phone_1024.webp) 1x, url(../images/phone_1024%25402x.webp) 2x, url(../images/phone_1024%25403x.webp) 3x);
         background-image: image-set(url(../images/phone_1024.webp) 1x, url(../images/phone_1024%25402x.webp) 2x, url(../images/phone_1024%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/phone_1024.avif) 1x, url(../images/phone_1024%25402x.avif) 2x, url(../images/phone_1024%25403x.avif) 3x);
-        background-image: image-set(url(../images/phone_1024.avif) 1x, url(../images/phone_1024%25402x.avif) 2x, url(../images/phone_1024%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/phone_1024.webp) 1x, url(../images/phone_1024%25402x.webp) 2x, url(../images/phone_1024%25403x.webp) 3x);
+        background-image: image-set(url(../images/phone_1024.webp) 1x, url(../images/phone_1024%25402x.webp) 2x, url(../images/phone_1024%25403x.webp) 3x);
         bottom: -13px;
         height: 515px;
         width: 355px
@@ -295,8 +295,8 @@ template {
     .background__phone {
         background-image: -webkit-image-set(url(../images/phone_1440.webp) 1x, url(../images/phone_1440%25402x.webp) 2x, url(../images/phone_1440%25403x.webp) 3x);
         background-image: image-set(url(../images/phone_1440.webp) 1x, url(../images/phone_1440%25402x.webp) 2x, url(../images/phone_1440%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/phone_1440.avif) 1x, url(../images/phone_1440%25402x.avif) 2x, url(../images/phone_1440%25403x.avif) 3x);
-        background-image: image-set(url(../images/phone_1440.avif) 1x, url(../images/phone_1440%25402x.avif) 2x, url(../images/phone_1440%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/phone_1440.webp) 1x, url(../images/phone_1440%25402x.webp) 2x, url(../images/phone_1440%25403x.webp) 3x);
+        background-image: image-set(url(../images/phone_1440.webp) 1x, url(../images/phone_1440%25402x.webp) 2x, url(../images/phone_1440%25403x.webp) 3x);
         height: 594px;
         width: 486px
     }
@@ -306,8 +306,8 @@ template {
     .background__phone {
         background-image: -webkit-image-set(url(../images/phone_1920.webp) 1x, url(../images/phone_1920%25402x.webp) 2x, url(../images/phone_1920%25403x.webp) 3x);
         background-image: image-set(url(../images/phone_1920.webp) 1x, url(../images/phone_1920%25402x.webp) 2x, url(../images/phone_1920%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/phone_1920.avif) 1x, url(../images/phone_1920%25402x.avif) 2x, url(../images/phone_1920%25403x.avif) 3x);
-        background-image: image-set(url(../images/phone_1920.avif) 1x, url(../images/phone_1920%25402x.avif) 2x, url(../images/phone_1920%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/phone_1920.webp) 1x, url(../images/phone_1920%25402x.webp) 2x, url(../images/phone_1920%25403x.webp) 3x);
+        background-image: image-set(url(../images/phone_1920.webp) 1x, url(../images/phone_1920%25402x.webp) 2x, url(../images/phone_1920%25403x.webp) 3x);
         height: 766px;
         width: 590px
     }
@@ -316,8 +316,8 @@ template {
 .background__plane {
     background-image: -webkit-image-set(url(../images/plane.webp) 1x, url(../images/plane%25402x.webp) 2x, url(../images/plane%25403x.webp) 3x);
     background-image: image-set(url(../images/plane.webp) 1x, url(../images/plane%25402x.webp) 2x, url(../images/plane%25403x.webp) 3x);
-    background-image: -webkit-image-set(url(../images/plane.avif) 1x, url(../images/plane%25402x.avif) 2x, url(../images/plane%25403x.avif) 3x);
-    background-image: image-set(url(../images/plane.avif) 1x, url(../images/plane%25402x.avif) 2x, url(../images/plane%25403x.avif) 3x);
+    background-image: -webkit-image-set(url(../images/plane.webp) 1x, url(../images/plane%25402x.webp) 2x, url(../images/plane%25403x.webp) 3x);
+    background-image: image-set(url(../images/plane.webp) 1x, url(../images/plane%25402x.webp) 2x, url(../images/plane%25403x.webp) 3x);
     background-repeat: no-repeat;
     bottom: -48px;
     height: 275.04px;
@@ -331,8 +331,8 @@ template {
     .background__plane {
         background-image: -webkit-image-set(url(../images/plane_768.webp) 1x, url(../images/plane_768%25402x.webp) 2x, url(../images/plane_768%25403x.webp) 3x);
         background-image: image-set(url(../images/plane_768.webp) 1x, url(../images/plane_768%25402x.webp) 2x, url(../images/plane_768%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/plane_768.avif) 1x, url(../images/plane_768%25402x.avif) 2x, url(../images/plane_768%25403x.avif) 3x);
-        background-image: image-set(url(../images/plane_768.avif) 1x, url(../images/plane_768%25402x.avif) 2x, url(../images/plane_768%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/plane_768.webp) 1x, url(../images/plane_768%25402x.webp) 2x, url(../images/plane_768%25403x.webp) 3x);
+        background-image: image-set(url(../images/plane_768.webp) 1x, url(../images/plane_768%25402x.webp) 2x, url(../images/plane_768%25403x.webp) 3x);
         bottom: -19px;
         height: 494px;
         right: 0;
@@ -344,8 +344,8 @@ template {
     .background__plane {
         background-image: -webkit-image-set(url(../images/plane_1024.webp) 1x, url(../images/plane_1024%25402x.webp) 2x, url(../images/plane_1024%25403x.webp) 3x);
         background-image: image-set(url(../images/plane_1024.webp) 1x, url(../images/plane_1024%25402x.webp) 2x, url(../images/plane_1024%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/plane_1024.avif) 1x, url(../images/plane_1024%25402x.avif) 2x, url(../images/plane_1024%25403x.avif) 3x);
-        background-image: image-set(url(../images/plane_1024.avif) 1x, url(../images/plane_1024%25402x.avif) 2x, url(../images/plane_1024%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/plane_1024.webp) 1x, url(../images/plane_1024%25402x.webp) 2x, url(../images/plane_1024%25403x.webp) 3x);
+        background-image: image-set(url(../images/plane_1024.webp) 1x, url(../images/plane_1024%25402x.webp) 2x, url(../images/plane_1024%25403x.webp) 3x);
         height: 557px;
         width: 354px
     }
@@ -355,8 +355,8 @@ template {
     .background__plane {
         background-image: -webkit-image-set(url(../images/plane_1440.webp) 1x, url(../images/plane_1440%25402x.webp) 2x, url(../images/plane_1440%25403x.webp) 3x);
         background-image: image-set(url(../images/plane_1440.webp) 1x, url(../images/plane_1440%25402x.webp) 2x, url(../images/plane_1440%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/plane_1440.avif) 1x, url(../images/plane_1440%25402x.avif) 2x, url(../images/plane_1440%25403x.avif) 3x);
-        background-image: image-set(url(../images/plane_1440.avif) 1x, url(../images/plane_1440%25402x.avif) 2x, url(../images/plane_1440%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/plane_1440.webp) 1x, url(../images/plane_1440%25402x.webp) 2x, url(../images/plane_1440%25403x.webp) 3x);
+        background-image: image-set(url(../images/plane_1440.webp) 1x, url(../images/plane_1440%25402x.webp) 2x, url(../images/plane_1440%25403x.webp) 3x);
         height: 651px;
         width: 462px
     }
@@ -366,8 +366,8 @@ template {
     .background__plane {
         background-image: -webkit-image-set(url(../images/plane_1920.webp) 1x, url(../images/plane_1920%25402x.webp) 2x, url(../images/plane_1920%25403x.webp) 3x);
         background-image: image-set(url(../images/plane_1920.webp) 1x, url(../images/plane_1920%25402x.webp) 2x, url(../images/plane_1920%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/plane_1920.avif) 1x, url(../images/plane_1920%25402x.avif) 2x, url(../images/plane_1920%25403x.avif) 3x);
-        background-image: image-set(url(../images/plane_1920.avif) 1x, url(../images/plane_1920%25402x.avif) 2x, url(../images/plane_1920%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/plane_1920.webp) 1x, url(../images/plane_1920%25402x.webp) 2x, url(../images/plane_1920%25403x.webp) 3x);
+        background-image: image-set(url(../images/plane_1920.webp) 1x, url(../images/plane_1920%25402x.webp) 2x, url(../images/plane_1920%25403x.webp) 3x);
         height: 706px;
         width: 689px
     }
@@ -376,8 +376,8 @@ template {
 .background__items {
     background-image: -webkit-image-set(url(../images/background-items.webp) 1x, url(../images/background-items%25402x.webp) 2x, url(../images/background-items%25403x.webp) 3x);
     background-image: image-set(url(../images/background-items.webp) 1x, url(../images/background-items%25402x.webp) 2x, url(../images/background-items%25403x.webp) 3x);
-    background-image: -webkit-image-set(url(../images/background-items.avif) 1x, url(../images/background-items%25402x.avif) 2x, url(../images/background-items%25403x.avif) 3x);
-    background-image: image-set(url(../images/background-items.avif) 1x, url(../images/background-items%25402x.avif) 2x, url(../images/background-items%25403x.avif) 3x);
+    background-image: -webkit-image-set(url(../images/background-items.webp) 1x, url(../images/background-items%25402x.webp) 2x, url(../images/background-items%25403x.webp) 3x);
+    background-image: image-set(url(../images/background-items.webp) 1x, url(../images/background-items%25402x.webp) 2x, url(../images/background-items%25403x.webp) 3x);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     bottom: 0;
@@ -394,8 +394,8 @@ template {
     .background__items {
         background-image: -webkit-image-set(url(../images/background-items_768.webp) 1x, url(../images/background-items_768%25402x.webp) 2x, url(../images/background-items_768%25403x.webp) 3x);
         background-image: image-set(url(../images/background-items_768.webp) 1x, url(../images/background-items_768%25402x.webp) 2x, url(../images/background-items_768%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-items_768.avif) 1x, url(../images/background-items_768%25402x.avif) 2x, url(../images/background-items_768%25403x.avif) 3x);
-        background-image: image-set(url(../images/background-items_768.avif) 1x, url(../images/background-items_768%25402x.avif) 2x, url(../images/background-items_768%25403x.avif) 3x)
+        background-image: -webkit-image-set(url(../images/background-items_768.webp) 1x, url(../images/background-items_768%25402x.webp) 2x, url(../images/background-items_768%25403x.webp) 3x);
+        background-image: image-set(url(../images/background-items_768.webp) 1x, url(../images/background-items_768%25402x.webp) 2x, url(../images/background-items_768%25403x.webp) 3x)
     }
 }
 
@@ -403,8 +403,8 @@ template {
     .background__items {
         background-image: -webkit-image-set(url(../images/background-items_1024.webp) 1x, url(../images/background-items_1024%25402x.webp) 2x, url(../images/background-items_1024%25403x.webp) 3x);
         background-image: image-set(url(../images/background-items_1024.webp) 1x, url(../images/background-items_1024%25402x.webp) 2x, url(../images/background-items_1024%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-items_1024.avif) 1x, url(../images/background-items_1024%25402x.avif) 2x, url(../images/background-items_1024%25403x.avif) 3x);
-        background-image: image-set(url(../images/background-items_1024.avif) 1x, url(../images/background-items_1024%25402x.avif) 2x, url(../images/background-items_1024%25403x.avif) 3x)
+        background-image: -webkit-image-set(url(../images/background-items_1024.webp) 1x, url(../images/background-items_1024%25402x.webp) 2x, url(../images/background-items_1024%25403x.webp) 3x);
+        background-image: image-set(url(../images/background-items_1024.webp) 1x, url(../images/background-items_1024%25402x.webp) 2x, url(../images/background-items_1024%25403x.webp) 3x)
     }
 }
 
@@ -412,8 +412,8 @@ template {
     .background__items {
         background-image: -webkit-image-set(url(../images/background-items_1440.webp) 1x, url(../images/background-items_1440%25402x.webp) 2x, url(../images/background-items_1440%403x.webp) 3x);
         background-image: image-set(url(../images/background-items_1440.webp) 1x, url(../images/background-items_1440%25402x.webp) 2x, url(../images/background-items_1440%403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-items_1440.avif) 1x, url(../images/background-items_1440%25402x.avif) 2x, url(../images/background-items_1440%25403x.avif) 3x);
-        background-image: image-set(url(../images/background-items_1440.avif) 1x, url(../images/background-items_1440%25402x.avif) 2x, url(../images/background-items_1440%25403x.avif) 3x)
+        background-image: -webkit-image-set(url(../images/background-items_1440.webp) 1x, url(../images/background-items_1440%25402x.webp) 2x, url(../images/background-items_1440%25403x.webp) 3x);
+        background-image: image-set(url(../images/background-items_1440.webp) 1x, url(../images/background-items_1440%25402x.webp) 2x, url(../images/background-items_1440%25403x.webp) 3x)
     }
 }
 
@@ -421,16 +421,16 @@ template {
     .background__items {
         background-image: -webkit-image-set(url(../images/background-items_1920.webp) 1x, url(../images/background-items_1920%25402x.webp) 2x, url(../images/background-items_1920%403x.webp) 3x);
         background-image: image-set(url(../images/background-items_1920.webp) 1x, url(../images/background-items_1920%25402x.webp) 2x, url(../images/background-items_1920%403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-items_1920.avif) 1x, url(../images/background-items_1920%25402x.avif) 2x, url(../images/background-items_1920%25403x.avif) 3x);
-        background-image: image-set(url(../images/background-items_1920.avif) 1x, url(../images/background-items_1920%25402x.avif) 2x, url(../images/background-items_1920%25403x.avif) 3x)
+        background-image: -webkit-image-set(url(../images/background-items_1920.webp) 1x, url(../images/background-items_1920%25402x.webp) 2x, url(../images/background-items_1920%25403x.webp) 3x);
+        background-image: image-set(url(../images/background-items_1920.webp) 1x, url(../images/background-items_1920%25402x.webp) 2x, url(../images/background-items_1920%25403x.webp) 3x)
     }
 }
 
 .background-circle {
     background-image: -webkit-image-set(url(../images/background-circle.webp) 1x, url(../images/background-circle%25402x.webp) 2x, url(../images/background-circle%25403x.webp) 3x);
     background-image: image-set(url(../images/background-circle.webp) 1x, url(../images/background-circle%25402x.webp) 2x, url(../images/background-circle%25403x.webp) 3x);
-    background-image: -webkit-image-set(url(../images/background-circle.avif) 1x, url(../images/background-circle%25402x.avif) 2x, url(../images/background-circle%25403x.avif) 3x);
-    background-image: image-set(url(../images/background-circle.avif) 1x, url(../images/background-circle%25402x.avif) 2x, url(../images/background-circle%25403x.avif) 3x);
+    background-image: -webkit-image-set(url(../images/background-circle.webp) 1x, url(../images/background-circle%25402x.webp) 2x, url(../images/background-circle%25403x.webp) 3x);
+    background-image: image-set(url(../images/background-circle.webp) 1x, url(../images/background-circle%25402x.webp) 2x, url(../images/background-circle%25403x.webp) 3x);
     background-size: 100% 100%;
     height: 88px;
     position: absolute;
@@ -444,8 +444,8 @@ template {
     .background-circle {
         background-image: -webkit-image-set(url(../images/background-circle-tablet.webp) 1x, url(../images/background-circle-tablet%25402x.webp) 2x, url(../images/background-circle-tablet%25403x.webp) 3x);
         background-image: image-set(url(../images/background-circle-tablet.webp) 1x, url(../images/background-circle-tablet%25402x.webp) 2x, url(../images/background-circle-tablet%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-circle-tablet.avif) 1x, url(../images/background-circle-tablet%25402x.avif) 2x, url(../images/background-circle-tablet%25403x.avif) 3x);
-        background-image: image-set(url(../images/background-circle-tablet.avif) 1x, url(../images/background-circle-tablet%25402x.avif) 2x, url(../images/background-circle-tablet%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/background-circle-tablet.webp) 1x, url(../images/background-circle-tablet%25402x.webp) 2x, url(../images/background-circle-tablet%25403x.webp) 3x);
+        background-image: image-set(url(../images/background-circle-tablet.webp) 1x, url(../images/background-circle-tablet%25402x.webp) 2x, url(../images/background-circle-tablet%25403x.webp) 3x);
         height: 154px;
         width: 224px
     }
@@ -455,8 +455,8 @@ template {
     .background-circle {
         background-image: -webkit-image-set(url(../images/background-circle-laptop.webp) 1x, url(../images/background-circle-laptop%25402x.webp) 2x, url(../images/background-circle-laptop%25403x.webp) 3x);
         background-image: image-set(url(../images/background-circle-laptop.webp) 1x, url(../images/background-circle-laptop%25402x.webp) 2x, url(../images/background-circle-laptop%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-circle-laptop.avif) 1x, url(../images/background-circle-laptop%25402x.avif) 2x, url(../images/background-circle-laptop%25403x.avif) 3x);
-        background-image: image-set(url(../images/background-circle-laptop.avif) 1x, url(../images/background-circle-laptop%25402x.avif) 2x, url(../images/background-circle-laptop%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/background-circle-laptop.webp) 1x, url(../images/background-circle-laptop%25402x.webp) 2x, url(../images/background-circle-laptop%25403x.webp) 3x);
+        background-image: image-set(url(../images/background-circle-laptop.webp) 1x, url(../images/background-circle-laptop%25402x.webp) 2x, url(../images/background-circle-laptop%25403x.webp) 3x);
         height: 235px;
         width: 369px
     }
@@ -466,8 +466,8 @@ template {
     .background-circle {
         background-image: -webkit-image-set(url(../images/background-circle-desktop.webp) 1x, url(../images/background-circle-desktop%25402x.webp) 2x, url(../images/background-circle-desktop%25403x.webp) 3x);
         background-image: image-set(url(../images/background-circle-desktop.webp) 1x, url(../images/background-circle-desktop%25402x.webp) 2x, url(../images/background-circle-desktop%25403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-circle-desktop.avif) 1x, url(../images/background-circle-desktop%25402x.avif) 2x, url(../images/background-circle-desktop%25403x.avif) 3x);
-        background-image: image-set(url(../images/background-circle-desktop.avif) 1x, url(../images/background-circle-desktop%25402x.avif) 2x, url(../images/background-circle-desktop%25403x.avif) 3x);
+        background-image: -webkit-image-set(url(../images/background-circle-desktop.webp) 1x, url(../images/background-circle-desktop%25402x.webp) 2x, url(../images/background-circle-desktop%25403x.webp) 3x);
+        background-image: image-set(url(../images/background-circle-desktop.webp) 1x, url(../images/background-circle-desktop%25402x.webp) 2x, url(../images/background-circle-desktop%25403x.webp) 3x);
         height: 247px;
         width: 471px
     }
@@ -698,8 +698,8 @@ template {
     background-color: #131315;
     background-image: -webkit-image-set(url(../images/background-body.webp) 1x, url(../images/background-body402x.webp) 2x, url(../images/background-body402x.webp) 3x);
     background-image: image-set(url(../images/background-body.webp) 1x, url(../images/background-body402x.webp) 2x, url(../images/background-body402x.webp) 3x);
-    background-image: -webkit-image-set(url(../images/background-body.avif) 1x, url(../images/background-body402x.webp) 2x, url(../images/background-body402x.webp) 3x);
-    background-image: image-set(url(../images/background-body.avif) 1x, url(../images/background-body402x.webp) 2x, url(../images/background-body402x.webp) 3x);
+    background-image: -webkit-image-set(url(../images/background-body.webp) 1x, url(../images/background-body402x.webp) 2x, url(../images/background-body402x.webp) 3x);
+    background-image: image-set(url(../images/background-body.webp) 1x, url(../images/background-body402x.webp) 2x, url(../images/background-body402x.webp) 3x);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     min-height: 100vh;
@@ -717,8 +717,8 @@ template {
     .body {
         background-image: -webkit-image-set(url(../images/background-body-small-tablet.webp) 1x, url(../images/background-body-small-tablet%402x.webp) 2x, url(../images/background-body-small-tablet%403x.webp) 3x);
         background-image: image-set(url(../images/background-body-small-tablet.webp) 1x, url(../images/background-body-small-tablet%402x.webp) 2x, url(../images/background-body-small-tablet%403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-body-small-tablet.avif) 1x, url(../images/background-body-small-tablet%402x.avif) 2x, url(../images/background-body-small-tablet%403x.avif) 3x);
-        background-image: image-set(url(../images/background-body-small-tablet.avif) 1x, url(../images/background-body-small-tablet%402x.avif) 2x, url(../images/background-body-small-tablet%403x.avif) 3x)
+        background-image: -webkit-image-set(url(../images/background-body-small-tablet.webp) 1x, url(../images/background-body-small-tablet%402x.webp) 2x, url(../images/background-body-small-tablet%403x.webp) 3x);
+        background-image: image-set(url(../images/background-body-small-tablet.webp) 1x, url(../images/background-body-small-tablet%402x.webp) 2x, url(../images/background-body-small-tablet%403x.webp) 3x)
     }
 }
 
@@ -726,8 +726,8 @@ template {
     .body {
         background-image: -webkit-image-set(url(../images/background-body-tablet.webp) 1x, url(../images/background-body-tablet%402x.webp) 2x, url(../images/background-body-tablet%403x.webp) 3x);
         background-image: image-set(url(../images/background-body-tablet.webp) 1x, url(../images/background-body-tablet%402x.webp) 2x, url(../images/background-body-tablet%403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-body-tablet.avif) 1x, url(../images/background-body-tablet%402x.avif) 2x, url(../images/background-body-tablet%403x.avif) 3x);
-        background-image: image-set(url(../images/background-body-tablet.avif) 1x, url(../images/background-body-tablet%402x.avif) 2x, url(../images/background-body-tablet%403x.avif) 3x)
+        background-image: -webkit-image-set(url(../images/background-body-tablet.webp) 1x, url(../images/background-body-tablet%402x.webp) 2x, url(../images/background-body-tablet%403x.webp) 3x);
+        background-image: image-set(url(../images/background-body-tablet.webp) 1x, url(../images/background-body-tablet%402x.webp) 2x, url(../images/background-body-tablet%403x.webp) 3x)
     }
 }
 
@@ -735,8 +735,8 @@ template {
     .body {
         background-image: -webkit-image-set(url(../images/background-body-laptop.webp) 1x, url(../images/background-body-laptop%402x.webp) 2x, url(../images/background-body-laptop%403x.webp) 3x);
         background-image: image-set(url(../images/background-body-laptop.webp) 1x, url(../images/background-body-laptop%402x.webp) 2x, url(../images/background-body-laptop%403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-body-laptop.avif) 1x, url(../images/background-body-laptop%402x.avif) 2x, url(../images/background-body-laptop%403x.avif) 3x);
-        background-image: image-set(url(../images/background-body-laptop.avif) 1x, url(../images/background-body-laptop%402x.avif) 2x, url(../images/background-body-laptop%403x.avif) 3x)
+        background-image: -webkit-image-set(url(../images/background-body-laptop.webp) 1x, url(../images/background-body-laptop%402x.webp) 2x, url(../images/background-body-laptop%403x.webp) 3x);
+        background-image: image-set(url(../images/background-body-laptop.webp) 1x, url(../images/background-body-laptop%402x.webp) 2x, url(../images/background-body-laptop%403x.webp) 3x)
     }
 }
 
@@ -744,8 +744,8 @@ template {
     .body {
         background-image: -webkit-image-set(url(../images/background-body-desktop.webp) 1x, url(../images/background-body-desktop%402x.webp) 2x, url(../images/background-body-desktop%403x.webp) 3x);
         background-image: image-set(url(../images/background-body-desktop.webp) 1x, url(../images/background-body-desktop%402x.webp) 2x, url(../images/background-body-desktop%403x.webp) 3x);
-        background-image: -webkit-image-set(url(../images/background-body-desktop.avif) 1x, url(../images/background-body-desktop%402x.avif) 2x, url(../images/background-body-desktop%403x.avif) 3x);
-        background-image: image-set(url(../images/background-body-desktop.avif) 1x, url(../images/background-body-desktop%402x.avif) 2x, url(../images/background-body-desktop%403x.avif) 3x)
+        background-image: -webkit-image-set(url(../images/background-body-desktop.webp) 1x, url(../images/background-body-desktop%402x.webp) 2x, url(../images/background-body-desktop%403x.webp) 3x);
+        background-image: image-set(url(../images/background-body-desktop.webp) 1x, url(../images/background-body-desktop%402x.webp) 2x, url(../images/background-body-desktop%403x.webp) 3x)
     }
 }
 
