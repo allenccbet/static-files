@@ -643,21 +643,21 @@ template {
 }
 
 .link:hover {
-    background-color: #ff3a3d
+    background-color: #247cff
 }
 
 .link:active {
-    background-color: #d40000
+    background-color: #247cff
 }
 
 .link:focus {
-    background-color: #fb080d;
+    background-color: #247cff;
     border: 2px solid #fff;
     box-shadow: 0 0 0 4px hsla(0, 0%, 100%, .25)
 }
 
 .link:disabled {
-    background-color: #fb080d;
+    background-color: #247cff;
     opacity: .5
 }
 
