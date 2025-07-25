@@ -1,0 +1,232 @@
+/*
+ * fonts.css
+ * This file defines @font-face rules for the Tiempos font family.
+ * It assumes this CSS file is located in the same directory as the .otf font files.
+ */
+
+/* --- TiemposFine --- */
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-Black.otf') format('opentype');
+  font-weight: 900; /* Black */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-BlackItalic.otf') format('opentype');
+  font-weight: 900; /* Black */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-Bold.otf') format('opentype');
+  font-weight: 700; /* Bold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-BoldItalic.otf') format('opentype');
+  font-weight: 700; /* Bold */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-Light.otf') format('opentype');
+  font-weight: 300; /* Light */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-LightItalic.otf') format('opentype');
+  font-weight: 300; /* Light */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-Medium.otf') format('opentype');
+  font-weight: 500; /* Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-MediumItalic.otf') format('opentype');
+  font-weight: 500; /* Medium */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-Regular.otf') format('opentype');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-RegularItalic.otf') format('opentype');
+  font-weight: 400; /* Regular */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-Semibold.otf') format('opentype');
+  font-weight: 600; /* Semibold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposFine';
+  src: url('./TestTiemposFine-SemiboldItalic.otf') format('opentype');
+  font-weight: 600; /* Semibold */
+  font-style: italic;
+}
+
+/* --- TiemposHeadline --- */
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-Black.otf') format('opentype');
+  font-weight: 900; /* Black */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-BlackItalic.otf') format('opentype');
+  font-weight: 900; /* Black */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-Bold.otf') format('opentype');
+  font-weight: 700; /* Bold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-BoldItalic.otf') format('opentype');
+  font-weight: 700; /* Bold */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-Light.otf') format('opentype');
+  font-weight: 300; /* Light */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-LightItalic.otf') format('opentype');
+  font-weight: 300; /* Light */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-Medium.otf') format('opentype');
+  font-weight: 500; /* Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-MediumItalic.otf') format('opentype');
+  font-weight: 500; /* Medium */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-Regular.otf') format('opentype');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-RegularItalic.otf') format('opentype');
+  font-weight: 400; /* Regular */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-Semibold.otf') format('opentype');
+  font-weight: 600; /* Semibold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('./TestTiemposHeadline-SemiboldItalic.otf') format('opentype');
+  font-weight: 600; /* Semibold */
+  font-style: italic;
+}
+
+/* --- TiemposText --- */
+@font-face {
+  font-family: 'TiemposText';
+  src: url('./TestTiemposText-Bold.otf') format('opentype');
+  font-weight: 700; /* Bold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposText';
+  src: url('./TestTiemposText-BoldItalic.otf') format('opentype');
+  font-weight: 700; /* Bold */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposText';
+  src: url('./TestTiemposText-Medium.otf') format('opentype');
+  font-weight: 500; /* Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposText';
+  src: url('./TestTiemposText-MediumItalic.otf') format('opentype');
+  font-weight: 500; /* Medium */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposText';
+  src: url('./TestTiemposText-Regular.otf') format('opentype');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposText';
+  src: url('./TestTiemposText-RegularItalic.otf') format('opentype');
+  font-weight: 400; /* Regular */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'TiemposText';
+  src: url('./TestTiemposText-Semibold.otf') format('opentype');
+  font-weight: 600; /* Semibold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TiemposText';
+  src: url('./TestTiemposText-SemiboldItalic.otf') format('opentype');
+  font-weight: 600; /* Semibold */
+  font-style: italic;
+}
